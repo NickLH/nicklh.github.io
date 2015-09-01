@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a physicist and programmer currently doing my PhD.
 
 ### More Information
 
